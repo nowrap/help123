@@ -28,6 +28,14 @@ Einfügen eines neuen Kapitels.
 
 - [PA-018](https://lqfb.piratenpartei-hessen.de/initiative/show/168.html)
 
+## [PA-019](help123/blob/master/PA-019.md) **Verkehrslärm**
+
+Einfügen eines neuen Kapitels.
+
+###### Im Wiki
+
+- [PA-019(-X)](https://wiki.piratenpartei.de/HE:Landesparteitage/2012.3/Antr%C3%A4ge#PA-019.28-X.29_Kapitel_.22Verkehrsl.C3.A4rm.22)
+
 ## [PA-21](help123/blob/master/PA-021.md) **Politikstil**
 
 Einfügen eines neuen Kapitels.
