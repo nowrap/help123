@@ -2,7 +2,7 @@
 
 ## [PA-016](help123/blob/master/PA-016.md) **Mehr und direktere Demokratie**
 
-Eine Zusammenfassung der Kapitel "Mehr Demokratie" und "Direkte Demokratie" zu einem neuen Kapitel
+Eine Zusammenfassung der Kapitel "Mehr Demokratie" und "Direkte Demokratie" zu einem neuen Kapitel.
 
 ###### Im Wiki
 
@@ -15,3 +15,15 @@ Eine Zusammenfassung der Kapitel "Mehr Demokratie" und "Direkte Demokratie" zu e
 - [PA-016-C](https://lqfb.piratenpartei-hessen.de/initiative/show/164.html)
 - [PA-016-D](https://lqfb.piratenpartei-hessen.de/initiative/show/165.html) und [PA-016-D-1](https://lqfb.piratenpartei-hessen.de/initiative/show/166.html)
 - [PA-016-E](https://lqfb.piratenpartei-hessen.de/initiative/show/167.html)
+
+## [PA-018](help123/blob/master/PA-018.md) **Breitbandausbau**
+
+Einfügen eines neuen Kapitels.
+
+###### Im Wiki
+
+- [PA-018](https://wiki.piratenpartei.de/HE:Landesparteitage/2012.3/Antr%C3%A4ge#PA-018_Breitbandausbau)
+
+###### Im LQFB
+
+- [PA-016-A](https://lqfb.piratenpartei-hessen.de/initiative/show/155.html)
