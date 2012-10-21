@@ -1,4 +1,4 @@
-# Übersicht der eingereichten Anträge
+# Übersicht der eingereichten Programmanträge
 
 ## [PA-016](help123/blob/master/PA-016.md) **Mehr und direktere Demokratie**
 
