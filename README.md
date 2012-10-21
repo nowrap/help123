@@ -27,3 +27,15 @@ Einfügen eines neuen Kapitels.
 ###### Im LQFB
 
 - [PA-018](https://lqfb.piratenpartei-hessen.de/initiative/show/168.html)
+
+## [PA-21](help123/blob/master/PA-021.md) **Politikstil**
+
+Einfügen eines neuen Kapitels.
+
+###### Im Wiki
+
+- [PA-021](https://wiki.piratenpartei.de/HE:Landesparteitage/2012.3/Antr%C3%A4ge#PA-021_Politikstil)
+
+###### Im LQFB
+
+- [PA-021](https://lqfb.piratenpartei-hessen.de/initiative/show/169.html)
