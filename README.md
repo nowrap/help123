@@ -1,8 +1,5 @@
 # Übersicht der eingereichten Programmanträge
 
-## [PA-015](help123/blob/master/PA-015.md) **Transparenter Staat**
-
-Einfügen eines neuen Kapitels.
 
 ## [PA-016](help123/blob/master/PA-016.md) **Mehr und direktere Demokratie**
 
@@ -19,6 +16,10 @@ Eine Zusammenfassung der Kapitel "Mehr Demokratie" und "Direkte Demokratie" zu e
 - [PA-016-C](https://lqfb.piratenpartei-hessen.de/initiative/show/164.html)
 - [PA-016-D](https://lqfb.piratenpartei-hessen.de/initiative/show/165.html) und [PA-016-D-1](https://lqfb.piratenpartei-hessen.de/initiative/show/166.html)
 - [PA-016-E](https://lqfb.piratenpartei-hessen.de/initiative/show/167.html)
+
+## [PA-017](help123/blob/master/PA-017.md) **Transparenter Staat**
+
+Einfügen eines neuen Kapitels und Integration des Kapitels "Informationsfreiheit und Transparenz"
 
 ## [PA-018](help123/blob/master/PA-018.md) **Breitbandausbau**
 
