@@ -49,7 +49,11 @@ Einfügen eines neuen Kapitels.
 
 - [PA-019(-X)](https://wiki.piratenpartei.de/HE:Landesparteitage/2012.3/Antr%C3%A4ge#PA-019.28-X.29_Kapitel_.22Verkehrsl.C3.A4rm.22)
 
-## [PA-21](help123/blob/master/PA-021.md) **Politikstil**
+###### Im LQFB
+
+- [PA-019(-X)](https://lqfb.piratenpartei-hessen.de/issue/show/99.html)
+
+## [PA-021](help123/blob/master/PA-021.md) **Politikstil**
 
 Einfügen eines neuen Kapitels.
 
