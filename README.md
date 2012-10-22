@@ -25,6 +25,10 @@ Transformieren des Kapitels "Informationsfreiheit und Transparenz" in das erweit
 
 - [PA-017(-X)](https://wiki.piratenpartei.de/HE:Landesparteitage/2012.3/Antr%C3%A4ge#PA-017.28-X.29_Transformieren_des_Kapitels_.22Informationsfreiheit_und_Transparenz.22_in_das_erweiterte_Kapitel_.22Transparenter_Staat.22)
 
+###### Im LQFB
+
+- [PA-017(-X)](https://lqfb.piratenpartei-hessen.de/issue/show/98.html)
+
 ## [PA-018](help123/blob/master/PA-018.md) **Breitbandausbau**
 
 Einfügen eines neuen Kapitels.
