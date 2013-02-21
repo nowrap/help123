@@ -1,7 +1,6 @@
 # Übersicht der eingereichten Programmanträge
 
-
-## [PA-016](help123/blob/master/PA-016.md) **Mehr und direktere Demokratie**
+## [PA-016](PA-016.md) **Mehr und direktere Demokratie**
 
 Eine Zusammenfassung der Kapitel "Mehr Demokratie" und "Direkte Demokratie" zu einem neuen Kapitel.
 
@@ -17,7 +16,7 @@ Eine Zusammenfassung der Kapitel "Mehr Demokratie" und "Direkte Demokratie" zu e
 - [PA-016-D](https://lqfb.piratenpartei-hessen.de/initiative/show/165.html) und [PA-016-D-1](https://lqfb.piratenpartei-hessen.de/initiative/show/166.html)
 - [PA-016-E](https://lqfb.piratenpartei-hessen.de/initiative/show/167.html)
 
-## [PA-017](help123/blob/master/PA-017.md) **Transparenter Staat**
+## [PA-017](PA-017.md) **Transparenter Staat**
 
 Transformieren des Kapitels "Informationsfreiheit und Transparenz" in das erweiterte Kapitel "Transparenter Staat"
 
@@ -29,7 +28,7 @@ Transformieren des Kapitels "Informationsfreiheit und Transparenz" in das erweit
 
 - [PA-017(-X)](https://lqfb.piratenpartei-hessen.de/issue/show/98.html)
 
-## [PA-018](help123/blob/master/PA-018.md) **Breitbandausbau**
+## [PA-018](PA-018.md) **Breitbandausbau**
 
 Einfügen eines neuen Kapitels.
 
@@ -41,7 +40,7 @@ Einfügen eines neuen Kapitels.
 
 - [PA-018](https://lqfb.piratenpartei-hessen.de/initiative/show/168.html)
 
-## [PA-019](help123/blob/master/PA-019.md) **Verkehrslärm**
+## [PA-019](PA-019.md) **Verkehrslärm**
 
 Einfügen eines neuen Kapitels.
 
@@ -53,7 +52,7 @@ Einfügen eines neuen Kapitels.
 
 - [PA-019(-X)](https://lqfb.piratenpartei-hessen.de/issue/show/99.html)
 
-## [PA-020](help123/blob/master/PA-020.md) **Energiewende**
+## [PA-020](PA-020.md) **Energiewende**
 
 Einfügen eines neuen Kapitels.
 
